@@ -21,12 +21,12 @@ On the other hand, the Marketing team has requested me to create clusters or cus
 
 ## Conclusion / Result
 ### Data Analysis
-- Store name linggahave 2 location in Sulawesi and papua
-- Dominancustomer gender is female
-- Dominancustomer Marital Status is Married
-- Customer dominanincome is between IDR 0 and 20 Million
-- The top quantity is in the month of March
-- The top Total amount  is from store name lingga
+- Store name lingga have 2 location in Sulawesi and papua
+- Dominan customer gender is female
+- Dominan customer Marital Status is Married
+- Customer dominan income is between IDR 0 and 20 Million
+- The top quantity sales is in the month of March
+- The top total amount is from store name lingga
 - The most sold product is Thai Tea
 ### Model Forecasting
 - Model Forecasting using ARIMA with Mean Absolute Eror 11 % and Mean Squared Error 15 %
