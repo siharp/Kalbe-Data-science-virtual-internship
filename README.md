@@ -37,4 +37,6 @@ On the other hand, the Marketing team has requested me to create clusters or cus
 - cluster 1 has a high average sales
 - cluster 2 has a low average sales 
 
-Tablue Dashboard [link](https://public.tableau.com/views/KalbeNutritionalSalesDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+Tablue Dashboard 
+![Tableau Dashboard ](https://github.com/siharp/Kalbe_Data_science_virtual_internship/blob/main/Screenshot%202023-10-21%20224523.png)
+[link](https://public.tableau.com/views/KalbeNutritionalSalesDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
