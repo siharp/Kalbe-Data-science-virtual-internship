@@ -1,4 +1,4 @@
-# Kalbe_Data_science_virtual_internship
+# Kalbe Data Science Virtual Internship
 
 ## Introduction
 During this virtual internship, I am serving as a Data Scientist and am currently receiving new projects from both the Inventory team and the Marketing team.
